@@ -1,0 +1,25 @@
+{
+  "name": "node-child-process-message-queue",
+  "version": "0.1.0",
+  "description": "MQ for node child process",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zccz14/node-child-process-message-queue.git"
+  },
+  "keywords": [
+    "MQ",
+    "child",
+    "process",
+    "node"
+  ],
+  "author": "Riki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zccz14/node-child-process-message-queue/issues"
+  },
+  "homepage": "https://github.com/zccz14/node-child-process-message-queue#readme"
+}
